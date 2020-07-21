@@ -1,4 +1,4 @@
-Typora Themes
+这是Typora的一款Themes
 =============
 
 A directory of typora themes
